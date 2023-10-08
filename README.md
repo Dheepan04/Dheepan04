@@ -3,8 +3,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dheepan04&label=Profile%20views&color=0e75b6&style=flat" alt="dheepan04" /> </p>
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500">
 <br><br>
-
-
 - 🌱 I’m currently learning **React,DSA,Node.js,MongoDB**
 
 - 💬 Ask me about **Html,css,Javascript and ReactJs**
